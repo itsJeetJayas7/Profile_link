@@ -20,4 +20,4 @@ http://kenwheeler.github.io/slick/
 
 Demo Images:
 http://unsplash.com
-
+New Commit
